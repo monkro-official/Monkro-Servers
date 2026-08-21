@@ -1,4 +1,4 @@
 {
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "maintenanceMessage": "Servers are operating normally."
 }
